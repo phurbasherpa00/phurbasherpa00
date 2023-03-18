@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phurba Sherpa! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> </a>, <a href="https://www.youtube.com/c/joshmadakor">Database Management Professional</a></h1>
+<h1>Hi, I'm Phurba Sherpa! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> href="https://www.youtube.com/c/joshmadakor">Database Management Professional</a></h1>
 
 <h2>👨‍💻 Data Projects:</h2>
 
