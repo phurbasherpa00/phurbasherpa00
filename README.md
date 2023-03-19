@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phurba Sherpa! <br/><a>Data Analyst</a> <a> </a>, <a href="https://www.youtube.com/c/joshmadakor">Database Management Professional</a></h1>
+<h1>Hi, I'm Phurba Sherpa! <br/><a>Data Analyst</a> <a> </a>, <a> Database Management Professional</a></h1>
 
 
 
