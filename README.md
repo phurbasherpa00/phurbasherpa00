@@ -29,7 +29,7 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.shutterstock.com/image-vector/sql-icon-600w-406611529.jpg![image](https://user-images.githubusercontent.com/126939431/226153950-c114c1f0-b743-4f05-8d96-8cd595bbb0d5.png)
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg)
 "/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
