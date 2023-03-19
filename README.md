@@ -37,7 +37,7 @@
 <img align="left" alt="Database management " width="60px" style="padding-right:10px;" src="https://img.icons8.com/external-smashingstocks-glyph-smashing-stocks/256/external-data-management-industrial-production-factory-automation-smashingstocks-glyph-smashing-stocks.png" />
 <img align="left" alt="Finincial Analysis" width="60px" style="padding-right:10px;" src="https://img.icons8.com/fluency/256/financial-analytics.png" />
 <img align="left" alt="MS SQL Server " width="70px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqSUBVncK8kDmMVHcaKdG97v1eun4XG7NB-w&usqp=CAU" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
 
 
 <br />
