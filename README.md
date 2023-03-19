@@ -15,7 +15,7 @@
 <h2>👨‍ Data Projects:</h2>
 
 - <b> SQL/ Creating Business Reports </b>
-  - [SQL/ Business Cases](https://github.com/phurbasherpa00/SQL)
+  - [SQL/ Business Reports](https://github.com/phurbasherpa00/SQL)
 - <b>Performing Finincial Analysis</b>
   - [Using Excel/ Pivot Table](https://github.com/phurbasherpa00/Finincial-Analysis) <b>
 - <b>Descriptive Statistics/Charts</b>
