@@ -29,13 +29,13 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+<img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 />
 <img align="left" alt="Tablaue" width="120px" style="padding-right:10px;" src="https://i.pcmag.com/imagery/reviews/03ET1vJXgWnmfrLZ7g542br-5.fit_scale.size_1028x578.v1569475368.jpg" />
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/256/ms-excel.png" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/external-flaticons-lineal-flat-icons/256/external-sql-computer-programming-flaticons-lineal-flat-icons.png" />
-<img align="left" alt="Database management " width="30px" style="padding-right:10px;" src="https://img.icons8.com/external-smashingstocks-glyph-smashing-stocks/256/external-data-management-industrial-production-factory-automation-smashingstocks-glyph-smashing-stocks.png" />
-<img align="left" alt="Finincial Analysis" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/256/financial-analytics.png" />
+<img align="left" alt="Excel" width="60px" style="padding-right:10px;" src="https://img.icons8.com/color/256/ms-excel.png" />
+<img align="left" alt="SQL" width="60px" style="padding-right:10px;" src="https://img.icons8.com/external-flaticons-lineal-flat-icons/256/external-sql-computer-programming-flaticons-lineal-flat-icons.png" />
+<img align="left" alt="Database management " width="60px" style="padding-right:10px;" src="https://img.icons8.com/external-smashingstocks-glyph-smashing-stocks/256/external-data-management-industrial-production-factory-automation-smashingstocks-glyph-smashing-stocks.png" />
+<img align="left" alt="Finincial Analysis" width="60px" style="padding-right:10px;" src="https://img.icons8.com/fluency/256/financial-analytics.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
