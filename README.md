@@ -16,7 +16,7 @@
 
 - <b> SQL/ Creating Business Reports </b>
   - [Praciting SQL/ Business Cases](https://github.com/phurbasherpa00/SQL)
-- <b>Performing Finincial Analysis)</b>
+- <b>Performing Finincial Analysis</b>
   - [Using Excel/ Pivot Table](https://github.com/phurbasherpa00/Finincial-Analysis) <b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
