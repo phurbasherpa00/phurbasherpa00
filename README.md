@@ -29,7 +29,7 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="file:///Users/phurbasherpa/Downloads/sql-database-generic.svg"/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://vecta.io/symbols/28/microsoft-azure-color/61/sql-database-generic"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
