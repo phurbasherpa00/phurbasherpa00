@@ -29,7 +29,7 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Python" width="80px" style="padding-right:10px;" src="https://stackabuse.com/assets/images/logo-python.png"
+<img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://stackabuse.com/assets/images/logo-python.png"
 />
 <img align="left" alt="Tablaue" width="120px" style="padding-right:10px;" src="https://i.pcmag.com/imagery/reviews/03ET1vJXgWnmfrLZ7g542br-5.fit_scale.size_1028x578.v1569475368.jpg" />
 <img align="left" alt="Excel" width="60px" style="padding-right:10px;" src="https://img.icons8.com/color/256/ms-excel.png" />
