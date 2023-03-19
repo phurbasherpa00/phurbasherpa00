@@ -45,7 +45,7 @@
    <br> 
    
    
-<h2> <img align="left" alt="Connect" width="30px" style="https://img.freepik.com/free-icon/share_318-122309.jpg?size=338&ext=jpg" /> Connect with me:</h2>
+<h2> <img align="left" alt="Connect" width="30px" style="https://img.freepik.com/premium-vector/share-icon_609277-2284.jpg?size=338&ext=jpg" /> Connect with me:</h2>
 
 [<img align="left" alt="phurbasherpa | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
    
