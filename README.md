@@ -45,7 +45,7 @@
    <br> 
    
    
-<h2> 🤳. <img align="left" alt="Connect" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/256/ms-excel.png" /> Connect with me:</h2>
+<h2> <img align="left" alt="Connect" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/256/ms-excel.png" /> Connect with me:</h2>
 
 [<img align="left" alt="phurbasherpa | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
    
