@@ -1,5 +1,6 @@
 <h1>Hi, I'm Phurba Sherpa! 
-<br>   
+<br>
+<br>
 <br/><a>Data Analyst</a> <a> </a>, <a> Database Management Professional</a></h1>
 
 
