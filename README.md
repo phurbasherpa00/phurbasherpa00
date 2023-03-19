@@ -44,6 +44,7 @@
 
 <br> 
    
+<h2> <img align="left" alt="Connec" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Xsp6JrD3ZRA5vBxmn36crN2u7tj1ZvySdl8t12Sa&s" /> Connect with me:</h2>   
    
 
 
