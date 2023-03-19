@@ -19,12 +19,11 @@
 - <b>Performing Finincial Analysis</b>
   - [Using Excel/ Pivot Table](https://github.com/phurbasherpa00/Finincial-Analysis) <b>
 - <b>Descriptive Statistics/Charts</b>
-  - [Performing Visualization using Statistics ](https://github.com/phurbasherpa00/Statistical-analysis)
-  
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Performing Visualization using Statistics ](https://github.com/phurbasherpa00/Statistical-analysis)  
+- <b>Tablaue </b>
+  - [Chemical Comparison Breakdown](https://github.com/phurbasherpa00/Tableau)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
