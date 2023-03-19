@@ -25,7 +25,7 @@
   - [Tablaue Public](https://public.tableau.com/views/ChemCorpInc_CaseStudyDataAnalysis_16778815243220/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
   
 - <b>Implementing Database </b>
-  - [Analyzing Database management Software for a University ](https://github.com/phurbasherpa00/phurbasherpa00/edit/main/README.md)
+  - [Analyzing Database management Software for a University ](https://github.com/phurbasherpa00/Implementing-database)
 
 ### 🧰 Languages and Tools
 
