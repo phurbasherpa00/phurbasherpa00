@@ -45,7 +45,7 @@
 <br> 
    
    
-<h2> <img align="left" alt="Connec" width="30px" style="" /> Connect with me:</h2>
+
 
 [<img align="left" alt="phurbasherpa | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
    
