@@ -42,10 +42,10 @@
 
 <br>
 
-   <br> 
+<br> 
    
    
-<h2> <img align="left" alt="Connec" width="30px" style="https://www.nicepng.com/png/detail/202-2026385_people-connection-png-for-kids-connect-icon-png.png" /> Connect with me:</h2>
+<h2> <img align="left" alt="Connec" width="30px" style="" /> Connect with me:</h2>
 
 [<img align="left" alt="phurbasherpa | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
    
