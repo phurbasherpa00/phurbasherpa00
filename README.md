@@ -7,7 +7,7 @@
 
 <summary><h3>👨‍💻 Data Analyst/ Database Management Journey </h3></summary>
 
-   I started my journey as someone who is passionate in learning indept about data's and how it is so important in today's society. I finished my degree in Data analysis / DataBase Management. After getting my degree, I went ahead and took Spring Board Data analysis Bootcamp to get more better Understanding regarding Data Analysis. Taking these courses made my skills much more polished in Excel, tablaue, SQL, Python and Database Management System. I have done many Projects and Internship that made me much more confident in this Field of Data's. 
+   I started my journey as someone who is passionate in learning indept about data's and how it is so important in today's society. I finished my degree in Data Analysis / DataBase Management. After getting my degree, I went ahead and took Spring Board Data analysis Bootcamp to get more better Understanding regarding Data Analysis. Taking these courses made my skills much more polished in Excel, tablaue, SQL, Python and Database Management System. I have done many Projects and Internship that made me much more confident in this Field of Data's. 
 
 
 
