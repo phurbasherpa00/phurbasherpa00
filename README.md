@@ -12,8 +12,8 @@
 
 
 
-<h2> <img align="left" alt="Excel" width="40px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZh0GEh1J4f-BVTVSA_xniW0RRluGOSTDhIA&usqp=CAU" /> Data Projects:</h2>
-<br>
+<h2> <img align="left" alt="Excel" width="35px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZh0GEh1J4f-BVTVSA_xniW0RRluGOSTDhIA&usqp=CAU" /> Data Projects:</h2>
+
 
 - <b> SQL/ Creating Business Reports </b>
   - [SQL/ Business Reports](https://github.com/phurbasherpa00/SQL)
