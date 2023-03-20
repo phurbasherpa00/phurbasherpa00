@@ -20,7 +20,7 @@
 - <b>Performing Finincial Analysis</b>
   - [Using Excel/ Pivot Table](https://github.com/phurbasherpa00/Finincial-Analysis) <b>
 - <b>Descriptive Statistics/Charts</b>
-  - [Performing Visualization using Statistics](https://github.com/phurbasherpa00/Statistical-analysis)<b>  
+  - [Performing Visualization using Statistics](https://github.com/phurbasherpa00/Statistical-analysis) 
 - <b>Tablaue </b>
   - [Chemical Comparison Breakdown](https://github.com/phurbasherpa00/Tableau)
   - [Tablaue Public](https://public.tableau.com/views/ChemCorpInc_CaseStudyDataAnalysis_16778815243220/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -56,6 +56,4 @@
 [linkedin]: https://www.linkedin.com/in/phurba-sherpa-49b2141b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4m726awgRrK2Xw2HhXzGlg%3D%3D
    
    
-
-
 
