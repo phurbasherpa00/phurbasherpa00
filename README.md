@@ -27,7 +27,7 @@
 - <b>Implementing Database </b>
   - [Analyzing Database management Software for a University ](https://github.com/phurbasherpa00/Implementing-database)
 
-### <h2><img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="" /> Languages and Tools.  </h2>
+### <h2><img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX0XRmQYgQ8QdNUReyU0xqXUc_OlNyy8-ZXA&usqp=CAU" /> Languages and Tools.  </h2>
 
 <img align="left" alt="Excel" width="60px" style="padding-right:10px;" src="https://img.icons8.com/color/256/ms-excel.png" />
 <img align="left" alt="Tablaue" width="120px" style="padding-right:10px;" src="https://i.pcmag.com/imagery/reviews/03ET1vJXgWnmfrLZ7g542br-5.fit_scale.size_1028x578.v1569475368.jpg" />
