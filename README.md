@@ -1,11 +1,11 @@
 <h1>Hi, I'm Phurba Sherpa! 
 <br>
 <br>
-<br/><a>SData Analyst</a> <a> </a>, <a> Database Management </a></h1>
+<br/><a>Specialized in Data Analyst</a> <a> </a>, <a> Database Management </a></h1>
 
 
 
-<h3>👨‍💻  Specialized in Data Analyst/ Database Management Journey </h3>
+<h3>👨‍💻 Data Analyst/ Database Management Journey </h3>
 
    I started my journey as someone who is passionate in learning indept about data's and how it is so important in today's world. I finished my bachelor's degree in Data Analysis / Database Management. After getting my degree, I went ahead and took Spring Board Data analysis Bootcamp to get much better Understanding regarding Data Analysis. Taking these courses made my skills much more polished in Excel, tablaue, SQL, Python and Database Management System. I have done many Projects and Internship that made me much more assertive in this Field of Data's. 
 
