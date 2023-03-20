@@ -12,7 +12,7 @@
 
 
 
-<h2> <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTK1FQoNAGD7KyarUApdUe9t5D8YPpSbvkHg&usqp=CAU" /> Data Projects:</h2>
+<h2> <img align="left" alt="Excel" width="25px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTK1FQoNAGD7KyarUApdUe9t5D8YPpSbvkHg&usqp=CAU" /> Data Projects:</h2>
 
 
 - <b> SQL/ Creating Business Reports </b>
