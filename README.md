@@ -25,8 +25,8 @@
   - [Chemical Comparison Breakdown](https://github.com/phurbasherpa00/Tableau)
   - [Tablaue Public](https://public.tableau.com/views/ChemCorpInc_CaseStudyDataAnalysis_16778815243220/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
   
-- <b>Implementing Database </b>
-  - [Analyzing Database management Software for a University ](https://github.com/phurbasherpa00/Implementing-database)
+- <b>Python</b>
+  - [Jupyter NoteBook](https://github.com/phurbasherpa00/Jupyter-Projects-)
 
 ### <h2><img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX0XRmQYgQ8QdNUReyU0xqXUc_OlNyy8-ZXA&usqp=CAU" /> Languages and Tools.  </h2>
 
