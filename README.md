@@ -23,7 +23,7 @@
   -
 - <b>Descriptive Statistics/Charts</b>
   - [Performing Visualization using Statistics](https://github.com/phurbasherpa00/Statistical-analysis)
-  -
+  
 - <b>Tablaue </b>
   - [Tablaue Public](https://public.tableau.com/views/ChemCorpInc_CaseStudyDataAnalysis_16778815243220/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
   
