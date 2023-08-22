@@ -18,7 +18,7 @@
 - <b> SQL/ Creating Business Reports </b>
   - [SQL/ Business Reports](https://github.com/phurbasherpa00/SQL)
   
-- <b>Performing Finincial Analysis</b>
+- <b>Performing Financial Analysis</b>
   - [Using Excel/ Pivot Table](https://github.com/phurbasherpa00/Finincial-Analysis) 
   
 - <b>Descriptive Statistics/Charts</b>
