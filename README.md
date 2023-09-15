@@ -1,7 +1,7 @@
 <h1>Hi, I'm Phurba Sherpa! 
 <br>
 <br>
-<br/><a>Specialized in Data Analyst</a> <a> </a>, <a> Database Management </a></h1>
+<br/><a>Specialized in Data Analysis </a> <a> </a>, <a> Database Management </a></h1>
 
 
 
