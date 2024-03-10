@@ -16,7 +16,7 @@
 
 
 - <b> SQL/ Database Management </b>
-  - [SQL/ Business Reports](https://github.com/phurbasherpa00/SQL)
+  - [SQL queries](https://github.com/phurbasherpa00/SQL)
   
 - <b>Performing Financial Analysis</b>
   - [Using Excel/ Pivot Table](https://github.com/phurbasherpa00/Finincial-Analysis) 
