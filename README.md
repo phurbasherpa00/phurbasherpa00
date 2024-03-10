@@ -7,8 +7,7 @@
 
 <h3>👨‍💻 Data Analyst/ Database Management Journey </h3>
 
-   I pursued a path driven by my deep fascination with data's significance in our modern world. With a bachelor's degree in Database Management and completion of the Springboard Data Analysis Bootcamp, I've specialized my skills in Excel, Tableau, SQL, Python, and Database Management Systems. Practical projects and internships have assisted my confidence and expertise in data analysis, equipping me to thrive in today's data-drive environment.
-
+   I pursued a path driven by my deep interest with data's significance in our modern world. With a bachelor's degree in Database Management and completion of the Springboard Data Analysis Bootcamp, I've specialized my skills in Excel, Tableau, SQL, Python, and Database Management Systems. Practical projects and internships have assisted my confidence and expertise in Data analysis / Database Management, preparing me to excel in today's data-driven environment.
 
 
 
